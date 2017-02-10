@@ -1,0 +1,2 @@
+Dictionary 类似于Map 利用Hash函数进行Key - Value 存储，因此具有很快的查找速度。
+Set 和 Dictionary 相似 但是不储存Value,Key不重复
